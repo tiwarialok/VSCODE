@@ -1,1 +1,1 @@
-print('alok tiwari')
+print ('alok tiwari')
